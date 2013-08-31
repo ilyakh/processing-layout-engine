@@ -1,0 +1,20 @@
+2013-11-07	3D-printere og parametrisk design	Ilya Kostolomov, Fredrik Hov
+2013-10-09	Spillutvikling i Lua	Srod Karim
+2013-11-13	DOM, CSS og jquery	Ilya Kostolomov
+2013-10-16	NetLogo	Roger Antonsen
+2013-11-21	Unix basics på Raspberry Pi	Jonathan Ringstad
+2013-10-17	3D-printere og parametrisk design	Ilya Kostolomov, Fredrik Hov
+2013-10-23	Vektorgrafikk i Illustrator	Veronika Heimsbakk
+2013-11-20	Spillutvikling i Lua	Srod Karim
+2013-09-19	Spillutvikling i Lua	Srod Karim
+2013-10-24	Spillutvikling i Lua	Srod Karim
+2013-09-18	Unix basics på Raspberry Pi	Jonathan Ringstad
+2013-10-02	DOM, CSS og jquery	Ilya Kostolomov
+2013-11-14	Vektorgrafikk i Illustrator	Veronika Heimsbakk
+2013-10-03	Redd verden	Kine Gjerstad Eide, Peter Havgar
+2013-10-30	3D-printere og parametrisk design	Ilya Kostolomov, Fredrik Hov
+2013-11-06	Unix basics på Raspberry Pi	Jonathan Ringstad
+2013-09-26	Vektorgrafikk i Illustrator	Veronika Heimsbakk
+2013-10-10	DOM, CSS og jquery	Ilya Kostolomov
+2013-10-31	Unix basics på Raspberry Pi	Jonathan Ringstad
+2013-09-25	DOM, CSS og jquery	Ilya Kostolomov
