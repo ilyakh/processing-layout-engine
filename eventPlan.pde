@@ -117,7 +117,7 @@ public void draw() {
       );
 
       
-      // space from the previous event
+      // space from the previous event and /
       currentYAnchor += eventSpacing;
     }
     currentYAnchor = defaultY; 
